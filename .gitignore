@@ -1,0 +1,8 @@
+game-source.html
+check-game.js
+vendor/
+.local/
+.env
+.env.*
+!.env.example
+node_modules/
